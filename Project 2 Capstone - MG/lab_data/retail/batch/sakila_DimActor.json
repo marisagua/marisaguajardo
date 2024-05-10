@@ -1,0 +1,8002 @@
+[
+	{
+		"actor_key" : 1,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 1,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 2,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 23,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 3,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 25,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 4,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 106,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 5,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 140,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 6,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 166,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 7,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 277,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 8,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 361,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 9,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 438,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 10,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 499,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 11,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 506,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 12,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 509,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 13,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 605,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 14,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 635,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 15,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 749,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 16,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 832,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 17,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 939,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 18,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 970,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 19,
+		"first_name" : "PENELOPE",
+		"last_name" : "GUINESS",
+		"actor_id" : 1,
+		"film_id" : 980,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 20,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 3,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 21,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 31,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 22,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 47,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 23,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 105,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 24,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 132,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 25,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 145,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 26,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 226,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 27,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 249,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 28,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 314,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 29,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 321,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 30,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 357,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 31,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 369,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 32,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 399,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 33,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 458,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 34,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 481,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 35,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 485,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 36,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 518,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 37,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 540,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 38,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 550,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 39,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 555,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 40,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 561,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 41,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 742,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 42,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 754,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 43,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 811,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 44,
+		"first_name" : "NICK",
+		"last_name" : "WAHLBERG",
+		"actor_id" : 2,
+		"film_id" : 958,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 45,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 17,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 46,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 40,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 47,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 42,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 48,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 87,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 49,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 111,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 50,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 185,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 51,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 289,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 52,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 329,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 53,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 336,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 54,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 341,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 55,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 393,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 56,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 441,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 57,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 453,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 58,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 480,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 59,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 539,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 60,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 618,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 61,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 685,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 62,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 827,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 63,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 966,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 64,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 967,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 65,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 971,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 66,
+		"first_name" : "ED",
+		"last_name" : "CHASE",
+		"actor_id" : 3,
+		"film_id" : 996,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 67,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 23,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 68,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 25,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 69,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 56,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 70,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 62,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 71,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 79,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 72,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 87,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 73,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 355,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 74,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 379,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 75,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 398,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 76,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 463,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 77,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 490,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 78,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 616,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 79,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 635,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 80,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 691,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 81,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 712,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 82,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 714,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 83,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 721,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 84,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 798,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 85,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 832,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 86,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 858,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 87,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 909,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 88,
+		"first_name" : "JENNIFER",
+		"last_name" : "DAVIS",
+		"actor_id" : 4,
+		"film_id" : 924,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 89,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 19,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 90,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 54,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 91,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 85,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 92,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 146,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 93,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 171,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 94,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 172,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 95,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 202,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 96,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 203,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 97,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 286,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 98,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 288,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 99,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 316,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 100,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 340,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 101,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 369,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 102,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 375,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 103,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 383,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 104,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 392,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 105,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 411,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 106,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 503,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 107,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 535,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 108,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 571,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 109,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 650,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 110,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 665,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 111,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 687,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 112,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 730,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 113,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 732,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 114,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 811,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 115,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 817,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 116,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 841,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 117,
+		"first_name" : "JOHNNY",
+		"last_name" : "LOLLOBRIGIDA",
+		"actor_id" : 5,
+		"film_id" : 865,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 118,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 29,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 119,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 53,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 120,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 60,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 121,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 70,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 122,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 112,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 123,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 164,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 124,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 165,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 125,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 193,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 126,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 256,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 127,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 451,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 128,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 503,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 129,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 509,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 130,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 517,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 131,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 519,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 132,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 605,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 133,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 692,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 134,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 826,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 135,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 892,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 136,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 902,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 137,
+		"first_name" : "BETTE",
+		"last_name" : "NICHOLSON",
+		"actor_id" : 6,
+		"film_id" : 994,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 138,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 25,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 139,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 27,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 140,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 35,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 141,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 67,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 142,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 96,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 143,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 170,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 144,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 173,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 145,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 217,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 146,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 218,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 147,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 225,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 148,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 292,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 149,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 351,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 150,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 414,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 151,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 463,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 152,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 554,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 153,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 618,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 154,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 633,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 155,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 637,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 156,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 691,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 157,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 758,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 158,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 766,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 159,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 770,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 160,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 805,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 161,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 806,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 162,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 846,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 163,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 900,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 164,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 901,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 165,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 910,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 166,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 957,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 167,
+		"first_name" : "GRACE",
+		"last_name" : "MOSTEL",
+		"actor_id" : 7,
+		"film_id" : 959,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 168,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 47,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 169,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 115,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 170,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 158,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 171,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 179,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 172,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 195,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 173,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 205,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 174,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 255,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 175,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 263,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 176,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 321,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 177,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 396,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 178,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 458,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 179,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 523,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 180,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 532,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 181,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 554,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 182,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 752,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 183,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 769,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 184,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 771,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 185,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 859,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 186,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 895,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 187,
+		"first_name" : "MATTHEW",
+		"last_name" : "JOHANSSON",
+		"actor_id" : 8,
+		"film_id" : 936,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 188,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 30,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 189,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 74,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 190,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 147,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 191,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 148,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 192,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 191,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 193,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 200,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 194,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 204,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 195,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 434,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 196,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 510,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 197,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 514,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 198,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 552,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 199,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 650,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 200,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 671,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 201,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 697,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 202,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 722,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 203,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 752,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 204,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 811,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 205,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 815,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 206,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 865,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 207,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 873,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 208,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 889,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 209,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 903,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 210,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 926,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 211,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 964,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 212,
+		"first_name" : "JOE",
+		"last_name" : "SWANK",
+		"actor_id" : 9,
+		"film_id" : 974,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 213,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 1,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 214,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 9,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 215,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 191,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 216,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 236,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 217,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 251,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 218,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 366,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 219,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 477,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 220,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 480,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 221,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 522,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 222,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 530,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 223,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 587,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 224,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 694,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 225,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 703,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 226,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 716,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 227,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 782,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 228,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 914,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 229,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 929,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 230,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 930,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 231,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 964,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 232,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 966,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 233,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 980,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 234,
+		"first_name" : "CHRISTIAN",
+		"last_name" : "GABLE",
+		"actor_id" : 10,
+		"film_id" : 983,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 235,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 118,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 236,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 205,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 237,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 281,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 238,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 283,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 239,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 348,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 240,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 364,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 241,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 395,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 242,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 429,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 243,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 433,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 244,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 453,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 245,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 485,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 246,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 532,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 247,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 567,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 248,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 587,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 249,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 597,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 250,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 636,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 251,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 709,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 252,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 850,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 253,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 854,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 254,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 888,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 255,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 896,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 256,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 928,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 257,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 938,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 258,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 969,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 259,
+		"first_name" : "ZERO",
+		"last_name" : "CAGE",
+		"actor_id" : 11,
+		"film_id" : 988,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 260,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 16,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 261,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 17,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 262,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 34,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 263,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 37,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 264,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 91,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 265,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 92,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 266,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 107,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 267,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 155,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 268,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 177,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 269,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 208,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 270,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 213,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 271,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 216,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 272,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 243,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 273,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 344,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 274,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 400,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 275,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 416,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 276,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 420,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 277,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 457,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 278,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 513,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 279,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 540,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 280,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 593,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 281,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 631,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 282,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 635,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 283,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 672,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 284,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 716,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 285,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 728,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 286,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 812,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 287,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 838,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 288,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 871,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 289,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 880,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 290,
+		"first_name" : "KARL",
+		"last_name" : "BERRY",
+		"actor_id" : 12,
+		"film_id" : 945,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 291,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 17,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 292,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 29,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 293,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 45,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 294,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 87,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 295,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 110,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 296,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 144,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 297,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 154,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 298,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 162,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 299,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 203,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 300,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 254,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 301,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 337,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 302,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 346,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 303,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 381,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 304,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 385,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 305,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 427,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 306,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 456,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 307,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 513,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 308,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 515,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 309,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 522,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 310,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 524,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 311,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 528,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 312,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 571,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 313,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 588,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 314,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 597,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 315,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 600,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 316,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 718,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 317,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 729,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 318,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 816,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 319,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 817,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 320,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 832,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 321,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 833,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 322,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 843,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 323,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 897,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 324,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 966,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 325,
+		"first_name" : "UMA",
+		"last_name" : "WOOD",
+		"actor_id" : 13,
+		"film_id" : 998,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 326,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 154,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 327,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 187,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 328,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 232,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 329,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 241,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 330,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 253,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 331,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 255,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 332,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 258,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 333,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 284,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 334,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 292,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 335,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 370,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 336,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 415,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 337,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 417,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 338,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 418,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 339,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 454,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 340,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 472,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 341,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 475,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 342,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 495,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 343,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 536,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 344,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 537,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 345,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 612,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 346,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 688,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 347,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 759,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 348,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 764,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 349,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 847,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 350,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 856,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 351,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 890,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 352,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 908,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 353,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 919,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 354,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 948,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 355,
+		"first_name" : "VIVIEN",
+		"last_name" : "BERGEN",
+		"actor_id" : 14,
+		"film_id" : 970,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 356,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 31,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 357,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 89,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 358,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 91,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 359,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 108,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 360,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 125,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 361,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 236,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 362,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 275,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 363,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 280,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 364,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 326,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 365,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 342,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 366,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 414,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 367,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 445,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 368,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 500,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 369,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 502,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 370,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 541,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 371,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 553,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 372,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 594,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 373,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 626,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 374,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 635,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 375,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 745,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 376,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 783,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 377,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 795,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 378,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 817,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 379,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 886,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 380,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 924,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 381,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 949,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 382,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 968,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 383,
+		"first_name" : "CUBA",
+		"last_name" : "OLIVIER",
+		"actor_id" : 15,
+		"film_id" : 985,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 384,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 80,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 385,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 87,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 386,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 101,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 387,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 121,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 388,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 155,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 389,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 177,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 390,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 218,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 391,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 221,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 392,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 267,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 393,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 269,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 394,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 271,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 395,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 280,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 396,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 287,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 397,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 345,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 398,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 438,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 399,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 453,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 400,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 455,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 401,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 456,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 402,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 503,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 403,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 548,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 404,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 582,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 405,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 583,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 406,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 717,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 407,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 758,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 408,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 779,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 409,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 886,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 410,
+		"first_name" : "FRED",
+		"last_name" : "COSTNER",
+		"actor_id" : 16,
+		"film_id" : 967,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 411,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 96,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 412,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 119,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 413,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 124,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 414,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 127,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 415,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 154,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 416,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 199,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 417,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 201,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 418,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 236,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 419,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 280,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 420,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 310,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 421,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 313,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 422,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 378,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 423,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 457,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 424,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 469,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 425,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 478,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 426,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 500,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 427,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 515,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 428,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 521,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 429,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 573,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 430,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 603,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 431,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 606,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 432,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 734,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 433,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 770,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 434,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 794,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 435,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 800,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 436,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 853,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 437,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 873,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 438,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 874,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 439,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 880,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 440,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 948,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 441,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 957,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 442,
+		"first_name" : "HELEN",
+		"last_name" : "VOIGHT",
+		"actor_id" : 17,
+		"film_id" : 959,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 443,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 44,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 444,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 84,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 445,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 144,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 446,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 172,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 447,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 268,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 448,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 279,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 449,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 280,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 450,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 321,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 451,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 386,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 452,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 460,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 453,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 462,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 454,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 484,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 455,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 536,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 456,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 561,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 457,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 612,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 458,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 717,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 459,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 808,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 460,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 842,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 461,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 863,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 462,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 883,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 463,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 917,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 464,
+		"first_name" : "DAN",
+		"last_name" : "TORN",
+		"actor_id" : 18,
+		"film_id" : 944,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 465,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 2,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 466,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 3,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 467,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 144,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 468,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 152,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 469,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 182,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 470,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 208,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 471,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 212,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 472,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 217,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 473,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 266,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 474,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 404,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 475,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 428,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 476,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 473,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 477,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 490,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 478,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 510,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 479,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 513,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 480,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 644,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 481,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 670,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 482,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 673,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 483,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 711,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 484,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 750,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 485,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 752,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 486,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 756,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 487,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 771,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 488,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 785,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 489,
+		"first_name" : "BOB",
+		"last_name" : "FAWCETT",
+		"actor_id" : 19,
+		"film_id" : 877,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 490,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 1,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 491,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 54,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 492,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 63,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 493,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 140,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 494,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 146,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 495,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 165,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 496,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 231,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 497,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 243,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 498,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 269,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 499,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 274,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 500,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 348,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 501,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 366,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 502,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 445,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 503,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 478,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 504,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 492,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 505,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 499,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 506,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 527,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 507,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 531,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 508,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 538,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 509,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 589,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 510,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 643,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 511,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 652,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 512,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 663,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 513,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 714,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 514,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 717,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 515,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 757,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 516,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 784,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 517,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 863,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 518,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 962,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 519,
+		"first_name" : "LUCILLE",
+		"last_name" : "TRACY",
+		"actor_id" : 20,
+		"film_id" : 977,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 520,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 6,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 521,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 87,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 522,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 88,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 523,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 142,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 524,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 159,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 525,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 179,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 526,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 253,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 527,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 281,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 528,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 321,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 529,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 398,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 530,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 426,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 531,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 429,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 532,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 497,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 533,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 507,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 534,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 530,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 535,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 680,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 536,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 686,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 537,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 700,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 538,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 702,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 539,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 733,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 540,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 734,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 541,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 798,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 542,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 804,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 543,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 887,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 544,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 893,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 545,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 920,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 546,
+		"first_name" : "KIRSTEN",
+		"last_name" : "PALTROW",
+		"actor_id" : 21,
+		"film_id" : 983,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 547,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 9,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 548,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 23,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 549,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 56,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 550,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 89,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 551,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 111,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 552,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 146,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 553,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 291,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 554,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 294,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 555,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 349,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 556,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 369,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 557,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 418,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 558,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 430,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 559,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 483,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 560,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 491,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 561,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 495,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 562,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 536,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 563,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 600,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 564,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 634,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 565,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 648,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 566,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 688,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 567,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 731,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 568,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 742,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 569,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 775,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 570,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 802,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 571,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 912,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 572,
+		"first_name" : "ELVIS",
+		"last_name" : "MARX",
+		"actor_id" : 22,
+		"film_id" : 964,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 573,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 6,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 574,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 42,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 575,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 78,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 576,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 105,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 577,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 116,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 578,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 117,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 579,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 125,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 580,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 212,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 581,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 226,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 582,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 235,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 583,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 254,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 584,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 367,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 585,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 370,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 586,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 414,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 587,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 419,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 588,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 435,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 589,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 449,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 590,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 491,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 591,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 536,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 592,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 549,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 593,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 636,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 594,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 649,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 595,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 673,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 596,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 691,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 597,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 766,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 598,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 782,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 599,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 804,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 600,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 820,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 601,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 826,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 602,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 833,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 603,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 842,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 604,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 853,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 605,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 855,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 606,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 856,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 607,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 935,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 608,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 981,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 609,
+		"first_name" : "SANDRA",
+		"last_name" : "KILMER",
+		"actor_id" : 23,
+		"film_id" : 997,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 610,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 3,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 611,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 83,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 612,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 112,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 613,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 126,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 614,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 148,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 615,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 164,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 616,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 178,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 617,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 194,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 618,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 199,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 619,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 242,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 620,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 256,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 621,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 277,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 622,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 335,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 623,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 405,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 624,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 463,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 625,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 515,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 626,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 585,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 627,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 603,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 628,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 653,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 629,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 704,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 630,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 781,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 631,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 829,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 632,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 832,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 633,
+		"first_name" : "CAMERON",
+		"last_name" : "STREEP",
+		"actor_id" : 24,
+		"film_id" : 969,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 634,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 21,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 635,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 86,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 636,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 153,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 637,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 179,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 638,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 204,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 639,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 213,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 640,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 226,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 641,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 245,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 642,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 311,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 643,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 404,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 644,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 411,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 645,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 420,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 646,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 538,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 647,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 564,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 648,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 583,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 649,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 606,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 650,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 688,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 651,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 697,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 652,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 755,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 653,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 871,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 654,
+		"first_name" : "KEVIN",
+		"last_name" : "BLOOM",
+		"actor_id" : 25,
+		"film_id" : 914,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 655,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 9,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 656,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 21,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 657,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 34,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 658,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 90,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 659,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 93,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 660,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 103,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 661,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 147,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 662,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 186,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 663,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 201,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 664,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 225,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 665,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 241,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 666,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 327,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 667,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 329,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 668,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 340,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 669,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 345,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 670,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 390,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 671,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 392,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 672,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 529,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 673,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 544,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 674,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 564,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 675,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 635,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 676,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 644,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 677,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 682,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 678,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 688,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 679,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 715,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 680,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 732,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 681,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 758,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 682,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 764,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 683,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 795,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 684,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 821,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 685,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 885,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 686,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 904,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 687,
+		"first_name" : "RIP",
+		"last_name" : "CRAWFORD",
+		"actor_id" : 26,
+		"film_id" : 906,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 688,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 19,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 689,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 34,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 690,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 85,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 691,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 150,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 692,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 172,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 693,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 273,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 694,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 334,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 695,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 347,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 696,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 359,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 697,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 398,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 698,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 415,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 699,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 462,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 700,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 477,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 701,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 500,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 702,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 503,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 703,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 540,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 704,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 586,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 705,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 593,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 706,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 637,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 707,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 679,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 708,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 682,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 709,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 695,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 710,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 771,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 711,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 805,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 712,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 830,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 713,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 854,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 714,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 873,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 715,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 880,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 716,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 889,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 717,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 904,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 718,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 967,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 719,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 986,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 720,
+		"first_name" : "JULIA",
+		"last_name" : "MCQUEEN",
+		"actor_id" : 27,
+		"film_id" : 996,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 721,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 14,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 722,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 43,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 723,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 58,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 724,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 74,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 725,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 96,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 726,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 107,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 727,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 259,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 728,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 263,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 729,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 287,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 730,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 358,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 731,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 502,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 732,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 508,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 733,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 532,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 734,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 551,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 735,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 574,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 736,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 597,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 737,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 619,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 738,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 625,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 739,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 652,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 740,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 679,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 741,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 743,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 742,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 790,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 743,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 793,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 744,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 816,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 745,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 827,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 746,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 835,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 747,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 879,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 748,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 908,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 749,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 953,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 750,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 973,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 751,
+		"first_name" : "WOODY",
+		"last_name" : "HOFFMAN",
+		"actor_id" : 28,
+		"film_id" : 994,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 752,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 10,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 753,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 79,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 754,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 105,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 755,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 110,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 756,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 131,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 757,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 133,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 758,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 172,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 759,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 226,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 760,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 273,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 761,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 282,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 762,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 296,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 763,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 311,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 764,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 335,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 765,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 342,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 766,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 436,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 767,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 444,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 768,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 449,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 769,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 462,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 770,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 482,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 771,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 488,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 772,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 519,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 773,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 547,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 774,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 590,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 775,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 646,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 776,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 723,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 777,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 812,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 778,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 862,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 779,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 928,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 780,
+		"first_name" : "ALEC",
+		"last_name" : "WAYNE",
+		"actor_id" : 29,
+		"film_id" : 944,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 781,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 1,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 782,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 53,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 783,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 64,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 784,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 69,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 785,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 77,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 786,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 87,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 787,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 260,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 788,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 262,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 789,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 286,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 790,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 292,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 791,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 301,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 792,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 318,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 793,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 321,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 794,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 357,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 795,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 565,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 796,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 732,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 797,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 797,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 798,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 838,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 799,
+		"first_name" : "SANDRA",
+		"last_name" : "PECK",
+		"actor_id" : 30,
+		"film_id" : 945,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 800,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 88,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 801,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 146,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 802,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 163,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 803,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 164,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 804,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 188,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 805,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 299,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 806,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 308,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 807,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 368,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 808,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 380,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 809,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 431,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 810,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 585,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 811,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 637,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 812,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 700,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 813,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 739,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 814,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 793,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 815,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 802,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 816,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 880,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 817,
+		"first_name" : "SISSY",
+		"last_name" : "SOBIESKI",
+		"actor_id" : 31,
+		"film_id" : 978,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 818,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 65,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 819,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 84,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 820,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 103,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 821,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 112,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 822,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 136,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 823,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 197,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 824,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 199,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 825,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 219,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 826,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 309,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 827,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 312,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 828,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 401,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 829,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 427,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 830,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 431,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 831,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 523,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 832,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 567,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 833,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 585,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 834,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 606,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 835,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 651,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 836,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 667,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 837,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 669,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 838,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 815,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 839,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 928,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 840,
+		"first_name" : "TIM",
+		"last_name" : "HACKMAN",
+		"actor_id" : 32,
+		"film_id" : 980,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 841,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 56,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 842,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 112,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 843,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 135,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 844,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 154,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 845,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 214,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 846,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 252,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 847,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 305,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 848,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 306,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 849,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 473,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 850,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 489,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 851,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 574,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 852,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 618,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 853,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 667,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 854,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 694,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 855,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 712,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 856,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 735,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 857,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 737,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 858,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 754,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 859,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 775,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 860,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 878,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 861,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 881,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 862,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 965,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 863,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 972,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 864,
+		"first_name" : "MILLA",
+		"last_name" : "PECK",
+		"actor_id" : 33,
+		"film_id" : 993,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 865,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 43,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 866,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 90,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 867,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 119,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 868,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 125,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 869,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 172,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 870,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 182,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 871,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 244,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 872,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 336,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 873,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 389,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 874,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 393,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 875,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 438,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 876,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 493,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 877,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 502,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 878,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 525,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 879,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 668,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 880,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 720,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 881,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 779,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 882,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 788,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 883,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 794,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 884,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 836,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 885,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 846,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 886,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 853,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 887,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 929,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 888,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 950,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 889,
+		"first_name" : "AUDREY",
+		"last_name" : "OLIVIER",
+		"actor_id" : 34,
+		"film_id" : 971,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 890,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 10,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 891,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 35,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 892,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 52,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 893,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 201,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 894,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 256,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 895,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 389,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 896,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 589,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 897,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 612,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 898,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 615,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 899,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 707,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 900,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 732,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 901,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 738,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 902,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 748,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 903,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 817,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 904,
+		"first_name" : "JUDY",
+		"last_name" : "DEAN",
+		"actor_id" : 35,
+		"film_id" : 914,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 905,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 15,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 906,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 81,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 907,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 171,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 908,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 231,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 909,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 245,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 910,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 283,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 911,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 380,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 912,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 381,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 913,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 387,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 914,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 390,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 915,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 410,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 916,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 426,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 917,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 427,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 918,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 453,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 919,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 466,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 920,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 484,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 921,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 493,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 922,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 499,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 923,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 569,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 924,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 590,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 925,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 600,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 926,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 714,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 927,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 715,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 928,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 716,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 929,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 731,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 930,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 875,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 931,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 915,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 932,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 931,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 933,
+		"first_name" : "BURT",
+		"last_name" : "DUKAKIS",
+		"actor_id" : 36,
+		"film_id" : 956,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 934,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 10,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 935,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 12,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 936,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 19,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 937,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 118,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 938,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 119,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 939,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 122,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 940,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 146,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 941,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 204,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 942,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 253,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 943,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 260,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 944,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 277,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 945,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 317,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 946,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 467,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 947,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 477,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 948,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 485,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 949,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 508,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 950,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 529,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 951,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 553,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 952,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 555,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 953,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 572,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 954,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 588,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 955,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 662,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 956,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 663,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 957,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 694,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 958,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 697,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 959,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 785,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 960,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 839,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 961,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 840,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 962,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 853,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 963,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 900,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 964,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 925,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 965,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 963,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 966,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 966,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 967,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 989,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 968,
+		"first_name" : "VAL",
+		"last_name" : "BOLGER",
+		"actor_id" : 37,
+		"film_id" : 997,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 969,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 24,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 970,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 111,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 971,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 160,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 972,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 176,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 973,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 223,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 974,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 241,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 975,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 274,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 976,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 335,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 977,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 338,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 978,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 353,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 979,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 448,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 980,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 450,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 981,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 458,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 982,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 501,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 983,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 516,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 984,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 547,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 985,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 583,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 986,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 618,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 987,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 619,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 988,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 705,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 989,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 793,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 990,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 827,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 991,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 839,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 992,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 853,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 993,
+		"first_name" : "TOM",
+		"last_name" : "MCKELLEN",
+		"actor_id" : 38,
+		"film_id" : 876,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 994,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 71,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 995,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 73,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 996,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 168,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 997,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 203,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 998,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 222,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 999,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 290,
+		"actor_date_updated_key" : 20060215
+	},
+	{
+		"actor_key" : 1000,
+		"first_name" : "GOLDIE",
+		"last_name" : "BRODY",
+		"actor_id" : 39,
+		"film_id" : 293,
+		"actor_date_updated_key" : 20060215
+	}
+]
